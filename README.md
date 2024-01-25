@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Nick
 
 ### 🔧Tools I use
 <div>
@@ -15,9 +15,6 @@
    <img src="https://i.morioh.com/9f75e619b0.png" title="Websockets" **alt="Websockets" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" title="Websockets" **alt="Websockets" width="40" height="40"/>
 </div>
-
-
-### 📘 My favorite projects
 
 ### 📫 How to reach me
 nicholasbrooks1@msn.com
